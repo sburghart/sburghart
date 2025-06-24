@@ -1,6 +1,8 @@
 ## Hi there
 
-## I'm a life-long learner and educator passionate about student development and mentorship.
+# I'm a life-long learner and educator passionate about student development and mentorship.
+- I'm always looking to collaborate on best practices in graduate education.
+- I'm always trying to learn more about automating and improving processes that help me do my job.
 
 <!--
 **sburghart/sburghart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
