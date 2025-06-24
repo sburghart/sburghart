@@ -1,6 +1,6 @@
 ## Hi there
 
-#### I'm a life-long learner and educator passionate about student development and mentorship. You can find my resume here.
+#### I'm a life-long learner and educator passionate about student development and mentorship. You can [find my resume here]([url](https://github.com/sburghart/sburghart/blob/main/SBurghart_Resume.pdf)).
 - I'm always looking to collaborate on best practices in graduate education.
 - I'm always trying to learn more about automating and improving processes that help me do my job.
 
